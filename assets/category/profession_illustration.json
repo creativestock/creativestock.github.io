@@ -1,0 +1,32 @@
+{
+    "illustration": [
+        {
+            "id": 1,
+            "kategori": "Profession",
+            "nama": "Employee",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8184f60d5f42acfe386a5b03759bfda529f0f905/profession/employee.svg",
+            "download": "https://drive.google.com/file/d/1uZgkrdCTfv1-TwRmp-RucJ5yyXUsDpc3/view?usp=sharing"
+        },
+        {
+            "id": 2,
+            "kategori": "Profession",
+            "nama": "Police",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8184f60d5f42acfe386a5b03759bfda529f0f905/profession/police.svg",
+            "download": "https://drive.google.com/file/d/1kTIva4ikp-dHN-4UT60fZkki8t-Dp4wG/view?usp=sharing"
+        },
+        {
+            "id": 3,
+            "kategori": "Profession",
+            "nama": "Pilot",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8184f60d5f42acfe386a5b03759bfda529f0f905/profession/pilot.svg",
+            "download": "https://drive.google.com/file/d/1_ctcqLpk55239dqQWp2wNn-G92Z_OuUq/view?usp=sharing"
+        },
+        {
+            "id": 4,
+            "kategori": "Profession",
+            "nama": "Soldier",
+            "thumbnail": "https://raw.githubusercontent.com/creativestock/thumbnail-creativestock/8184f60d5f42acfe386a5b03759bfda529f0f905/profession/soldier.svg",
+            "download": "https://drive.google.com/file/d/1Y8qY_FW496_rUsrRzNyYW1adwFAzPp6H/view?usp=sharing"
+        }
+    ]
+}
